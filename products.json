@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "name":"Silhouette-Advent-Calendar",
+    "price": 30,
+    "description":"A custom advent calendar from Southern Savers",
+    "image":"http://www.southernsavers.com/wp-content/uploads/2010/11/Silhouette-Advent-Calendar.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Whiskey Advent Calendar",
+    "price": 40,
+    "description": "Multiple different whiskeys to try each day",
+    "image":"https://images.britcdn.com/wp-content/uploads/2012/11/Whisky.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Gilt Galvanized Calendar",
+    "price": 50,
+    "description": "Various buckets holding different presents",
+    "image":"http://ab.pbimgs.com/pbimgs/ab/images/dp/wcm/201641/0028/gilt-galvanized-advent-calendar-c.jpg"
+  }
+
+]
