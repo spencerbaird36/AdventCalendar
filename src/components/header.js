@@ -22,10 +22,11 @@ class Header extends Component {
           <li className="nav-item">
             <Link to="/checkout">Checkout</Link>
           </li>
-
+          <li className="nav-item">
+            <Link to="/signin">Signin</Link>
+          </li>
         </ul>
       </nav>
-
     )
   }
 
